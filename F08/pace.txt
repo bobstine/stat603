@@ -1,0 +1,15 @@
+This pacing gets through the material so that all that is left for the
+last day is the two-sample t-test.  In addition to the syllabus, the
+courseack has 170 pages.
+
+Class	Through		Topics
+1	2-18 (p 31)	syllabus, histogram, mean, sd, boxplot
+2	2-34 (p	46)	normality, quantile plot, logs, comparison boxplot
+3	3- 8 (p 63)	airline, basic probability, random variable
+4	3-22 (p	77)	finish mod 3 (r.v., expected value, variance, option)
+5	4-18 (p 95)	module 4 (dice, volatility, drag, portfolio)
+6	5-24 ( 119)	module 5 (covariance, portfolio, correlation)
+7	6-21 ( 140)	module 6 (m&m, std error, CLT, hint at conf interval)
+8	8-10 ( 161)	module 7 (confidence interval), one-sample test 
+9	8-19 ( 170)	finish mod 8 (two-sample test), review for Stat 621
+
